@@ -214,8 +214,8 @@ Jika sudah dipahami rules-nya, silakan ketik *#menu* untuk memulai!
 
 5. Gw Jujur Gw Suka Sama Lu (Tapi Boong)
 
-OWNER  Z-BOTZ:
-wa.me/6281216465289
+OWNER  Putra Bot:
+wa.me/6283187319055
 `
 }
 exports.infoMenu = (prefix) => {
